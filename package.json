@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "node.js": "^0.0.1-security"
-  }
+  "name": "CostlyLameCases",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "your-build-command-here"
+  },
+  ...
 }
